@@ -1,0 +1,63 @@
+{
+  "categories": {
+    "M5F90": {
+      "profit": 5700.0,
+      "expense": 500.0,
+      "income": 5200.0
+    },
+    "Fathom XF50 S": {
+      "profit": 2700.0,
+      "expense": 500.0,
+      "income": 2200.0
+    },
+    "Nagasaki P1": {
+      "profit": 7800.0,
+      "expense": 500.0,
+      "income": 7300.0
+    },
+    "Julia": {
+      "profit": 0,
+      "expense": 0,
+      "income": 0
+    },
+    "Кв.(2гм)\\1": {
+      "profit": 0,
+      "expense": 0,
+      "income": 0
+    },
+    "Кв.(2гм)\\2": {
+      "profit": 0,
+      "expense": 0,
+      "income": 0
+    }
+  },
+  "rentals": [
+    {
+      "category": "M5F90",
+      "profit": 5700.0,
+      "expense": 500.0,
+      "start_time": "07:38-12.07.25",
+      "end_time": "10:38-12.07.25",
+      "income": 5200.0,
+      "notified": false
+    },
+    {
+      "category": "Fathom XF50 S",
+      "profit": 2700.0,
+      "expense": 500.0,
+      "start_time": "11:36-12.07.25",
+      "end_time": "14:37-12.07.25",
+      "income": 2200.0,
+      "notified": true
+    },
+    {
+      "category": "Nagasaki P1",
+      "profit": 7800.0,
+      "expense": 500.0,
+      "start_time": "14:42-12.07.25",
+      "end_time": "20:42-12.07.25",
+      "income": 7300.0,
+      "notified": false
+    }
+  ]
+}
